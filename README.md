@@ -5,7 +5,7 @@ Hybrid app for ecommerce
   <td width="33%">
 <h3 align="center">Login</h3>
 <div align="center">
-<img src="https://i.imgur.com/9S0T7om.jpeg" width="250" alt="pet qr login">
+<img src="https://i.imgur.com/8h8g0mM.jpeg" width="250" alt="pet qr login"> 
   
 
 
@@ -14,9 +14,9 @@ Hybrid app for ecommerce
 </td>
 
 <td width="33%">
-<h3 align="center">Home</h3>
+<h3 align="center">Home: List view</h3>
 <div align="center">
-<img src="https://i.imgur.com/29N6Xci.jpeg" width="250" alt="pet qr home">
+<img src="https://i.imgur.com/TrR4M3Q.jpeg" width="250" alt="pet qr home"> 
   
 
 
@@ -25,9 +25,9 @@ Hybrid app for ecommerce
 </td>
 
 <td width="33%">
-<h3 align="center">Map</h3>
+<h3 align="center">Side Menu</h3>
 <div align="center">                                       
-<img src="https://i.imgur.com/FVYga0y.jpeg" width="250" alt="pet qr map">
+<img src="https://i.imgur.com/M8bCff9.jpeg" width="250" alt="pet qr map">
 <br>
 
 
