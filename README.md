@@ -1,5 +1,14 @@
 # ecommercemarcadeagua
 Hybrid app for ecommerce
+
+<h3 align="left">Tools and technologies</h3>
+<ul>
+  <li>Ionic</li>
+  <li>Angular</li>
+  <li>Laravel</li>
+  <li>PHP PDO</li>
+  <li>CSS</li>
+</ul>
 <table>
 <tr>
   <td width="33%">
